@@ -1,6 +1,10 @@
-# Code Refactor Starter Code
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+#README
+
+##Description
+
+Within this project, I have attempted to meet accessibility standards while also re-ordering HTML elements to make more logical sense. I have also attempted to trim down css elements to be less lengthy.
+
+##Link
+https://romx10.github.io/Module-1-Challenge/
+
+##Screenshot
