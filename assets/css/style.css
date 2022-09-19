@@ -93,7 +93,7 @@ footer {
 .content img {
     max-height: 200px;
 }
-
+/*Consolidated css selectors for content class*/
 .content-sections {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +119,7 @@ footer {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Consolidated css selectors for benefit class*/
 .benefit-sections {
     margin-bottom: 32px;
     color: #ffffff;
